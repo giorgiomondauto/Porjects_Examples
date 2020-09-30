@@ -1,4 +1,4 @@
-# Porjects_Examples
+# Projects_Examples
 
 
 ## Data Exploration & Analysis Challenge.ipynb
